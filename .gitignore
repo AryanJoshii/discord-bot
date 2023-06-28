@@ -1,0 +1,8 @@
+.replit
+.replit.backup
+package-lock.json
+replit_zip_error_log.txt
+replit.nix
+replit.nix.backup
+.upm
+.cache
